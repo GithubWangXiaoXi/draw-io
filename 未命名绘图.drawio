@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T04:22:54.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JKjb80kdk-QvGMh04_sw" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T04:23:48.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NJ7X9l4sT-Wx9YSgg9gQ" version="20.4.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1038" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="DuOYHpPOITpK8MxlzqWn-54" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DuOYHpPOITpK8MxlzqWn-52">
           <mxGeometry y="70" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="DuOYHpPOITpK8MxlzqWn-55" value="+ handle_image&#xa;+ handle_video&#xa;+ handle_camera" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DuOYHpPOITpK8MxlzqWn-52">
+        <mxCell id="DuOYHpPOITpK8MxlzqWn-55" value="+ handle_image(detector)&#xa;+ handle_video(detector)&#xa;+ handle_camera(detector)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DuOYHpPOITpK8MxlzqWn-52">
           <mxGeometry y="78" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DuOYHpPOITpK8MxlzqWn-56" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.351;entryY=1.115;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DuOYHpPOITpK8MxlzqWn-26" target="DuOYHpPOITpK8MxlzqWn-51">
@@ -139,7 +139,7 @@
         <mxCell id="DuOYHpPOITpK8MxlzqWn-79" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DuOYHpPOITpK8MxlzqWn-77">
           <mxGeometry y="66" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="DuOYHpPOITpK8MxlzqWn-80" value="+ handle_image&#xa;+ handle_video&#xa;+ handle_camera" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DuOYHpPOITpK8MxlzqWn-77">
+        <mxCell id="DuOYHpPOITpK8MxlzqWn-80" value="+ handle_image(detector)&#xa;+ handle_video(detector)&#xa;+ handle_camera(detector)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DuOYHpPOITpK8MxlzqWn-77">
           <mxGeometry y="74" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
