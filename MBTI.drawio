@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T04:53:14.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4zTNYnKNj0-wjF940NHY" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T04:54:23.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RzBVUvO3L2NIiKJNmn5O" version="22.1.16" type="github">
   <diagram name="第 1 页" id="3c7-YKSq7JLv_ibGxWt0">
-    <mxGraphModel dx="1586" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1911" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="Y2pjcOXVoZPDimEb5wzu-22" value="分析用户是否困惑（prompt_basic1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1620" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2pjcOXVoZPDimEb5wzu-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;过滤器1（专家模式）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Y2pjcOXVoZPDimEb5wzu-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;流水线1（专家模式）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="165" y="1625" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y2pjcOXVoZPDimEb5wzu-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2pjcOXVoZPDimEb5wzu-24" target="Y2pjcOXVoZPDimEb5wzu-84">
@@ -70,7 +70,7 @@
         <mxCell id="Y2pjcOXVoZPDimEb5wzu-24" value="分析用户是否愉悦（prompt_basic2）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1710" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y2pjcOXVoZPDimEb5wzu-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;过滤器2（伴侣模式）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Y2pjcOXVoZPDimEb5wzu-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;流水线2（伴侣模式）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="165" y="1715" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y2pjcOXVoZPDimEb5wzu-26" value="分析用户是否困惑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -261,6 +261,12 @@
         </mxCell>
         <mxCell id="Y2pjcOXVoZPDimEb5wzu-88" value="若各项指标都得到优化，则优化prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1193" y="1710" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2pjcOXVoZPDimEb5wzu-98" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;过滤器1（专家模式）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1570" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2pjcOXVoZPDimEb5wzu-99" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;过滤器2（伴侣模式）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1760" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
