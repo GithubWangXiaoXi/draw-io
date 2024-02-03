@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-02-03T15:02:57.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="iDgq9oIrUnQM2qhj5QdJ" version="23.1.1" type="github">
+  <diagram name="第 1 页" id="X_Hb-1_eLluj9XUOYYpD">
+    <mxGraphModel dx="794" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MWHKNPvCQjELJ2xHYArr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MWHKNPvCQjELJ2xHYArr-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MQTT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MWHKNPvCQjELJ2xHYArr-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;EMQX服务器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
