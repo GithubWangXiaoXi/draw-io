@@ -1,9 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T03:22:08.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YjJahAnCLB6NlPX-bw5E" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T03:23:50.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3zlXcjKa4ftFwKsw-4_f" version="23.1.1" type="github">
   <diagram name="第 1 页" id="bxPdd4m5XbWyl-8YQd8G">
-    <mxGraphModel dx="662" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ix-okHhNT_fr67MZQMGr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ix-okHhNT_fr67MZQMGr-25" target="ix-okHhNT_fr67MZQMGr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ix-okHhNT_fr67MZQMGr-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ix-okHhNT_fr67MZQMGr-27">
+          <mxGeometry x="0.105" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ix-okHhNT_fr67MZQMGr-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统一封装成指标/事件消息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ix-okHhNT_fr67MZQMGr-27">
+          <mxGeometry x="0.0016" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ix-okHhNT_fr67MZQMGr-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="208" width="420" height="92" as="geometry" />
         </mxCell>
@@ -99,6 +112,9 @@
           <mxGeometry x="0.179" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ix-okHhNT_fr67MZQMGr-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Network推送到EMQX服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
